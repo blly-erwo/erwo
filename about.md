@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I
+A blog where I host links to music I really like. Partly for myself, but I hope you're into it, too. 
 
-### About me
+Indie, RnB, rap, electronic, rock, and sometimes other stuff, too.
 
-Creating a blog to host links to music I really like. Mostly for myself, but I hope you're into it, too.
-
-Contact me on twitter: @erwo10
+Contact me on twitter if you want: @erwo10
