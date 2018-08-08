@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I
 
-### More Information
+### About me
 
-A place to include any other types of information that you'd like to include about yourself.
+Creating a blog to host links to music I really like. Mostly for myself, but I hope you're into it, too.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Contact me on twitter: @erwo10
