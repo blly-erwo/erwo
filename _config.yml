@@ -11,6 +11,9 @@ description: a music blog by blly (avatar by VV Nincic, Flickr creative commons)
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/blly-erwo/erwo/master/images/orangesq.jpg
 
+random_redirect:
+  pages: true
+
 #
 # Flags below are optional
 #
